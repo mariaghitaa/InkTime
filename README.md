@@ -10,8 +10,6 @@ Proiectul **InkTime** este un dispozitiv purtabil bazat pe microcontrolerul **nR
 
 ## 2. Diagrama Bloc
 
-![Diagrama Bloc InkTime](Images/block_diagram.png)
-
 Arhitectura hardware este structurată în jurul nucleului ARM Cortex-M4F, interconectat cu următoarele module:
 
 - **Sistem de Procesare:** nRF52840 (Bluetooth 5.0, GPIO, SPI, I2C)
