@@ -3761,6 +3761,9 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </library>
 </libraries>
 <attributes>
+<attribute name="DATE" value="4/18/2026 9:34 PM"/>
+<attribute name="DRAWN_BY" value="Ghita Maria"/>
+<attribute name="TITLE" value="InkTime v6"/>
 </attributes>
 <variantdefs>
 </variantdefs>
@@ -3769,40 +3772,40 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 </class>
 </classes>
 <parts>
-<part name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
+<part uuid="0xABCDEF32" name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
 <part name="FRAME1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="C38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
+<part uuid="0xABCDEF65" name="C38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
 <part name="GND1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="C37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
+<part uuid="0xABCDEF69" name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part uuid="0xABCDEF6F" name="C37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
 <part name="GND3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="RT6160AWSC_RT6160AWSC" device="" value="RT6160AWSC"/>
-<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="10uF"/>
-<part name="C23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
+<part uuid="0xABCDEF91" name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF30" name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="RT6160AWSC_RT6160AWSC" device="" value="RT6160AWSC"/>
+<part uuid="0xABCDEF9D" name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="10uF"/>
+<part uuid="0xABCDEF9F" name="C23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
 <part name="GND6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="R2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
-<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
+<part uuid="0xABCDEF99" name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF9B" name="R2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF97" name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
+<part uuid="0xABCDEF95" name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="22uF"/>
 <part name="GND9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
+<part uuid="0xABCDEF3A" name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
 <part name="TP_3V3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_VREG" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="R17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="R18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part uuid="0xABCDEF75" name="R17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part uuid="0xABCDEF71" name="R18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
 <part name="TP_SCL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_SDA" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part uuid="0xABCDEF03" name="IC3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="BMA423_BMA423" device="" value="BMA421"/>
-<part name="C19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF4F" name="C19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="GND10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF85" name="R3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
 <part name="GND12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="TP_SWO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_SWDIO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
@@ -3815,127 +3818,127 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <part name="GND14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part uuid="0xABCDEF0D" name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_4_NRF52840_QF" device="" value="NRF52840_QF"/>
 <part name="GND15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF83" name="C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="GND16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF73" name="C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="GND17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF8B" name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF4D" name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF87" name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
 <part name="GND19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF49" name="C18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF4B" name="C17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
 <part uuid="0xABCDEF07" name="X2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
 <part name="GND22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF47" name="C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="GND23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="10µH"/>
-<part name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="15nH"/>
+<part uuid="0xABCDEF45" name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF5B" name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="10µH"/>
+<part uuid="0xABCDEF59" name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="15nH"/>
 <part name="GND24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
-<part name="C16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="47nF"/>
-<part name="C13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF8F" name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
+<part uuid="0xABCDEF8D" name="C16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="47nF"/>
+<part uuid="0xABCDEFB1" name="C13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
 <part name="GND25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF89" name="C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="GND26" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEFB3" name="C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
 <part name="GND27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100pF"/>
+<part uuid="0xABCDEFB7" name="C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100pF"/>
 <part name="GND28" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="X1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
-<part name="C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF38" name="X1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
+<part uuid="0xABCDEFBB" name="C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEFB5" name="C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
 <part name="GND29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="L1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
+<part uuid="0xABCDEF55" name="L1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="3.9nH"/>
 <part uuid="0xABCDEF15" name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="2450AT18B100E_2450AT18B100E" device="" value="2450AT18B100E"/>
 <part name="C3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
 <part name="GND30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
+<part uuid="0xABCDEFBF" name="C4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
 <part name="GND31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEFB9" name="C22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
 <part name="GND32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="FRAME2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="FRAMES_A3L-LOC" device=""/>
 <part uuid="0xABCDEF19" name="L5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
-<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part uuid="0xABCDEF2D" name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
 <part name="GND33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
+<part uuid="0xABCDEF53" name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
 <part uuid="0xABCDEF0F" name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part uuid="0xABCDEF09" name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part uuid="0xABCDEF0D" name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part name="GND34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part uuid="0xABCDEF1F" name="Q3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device="" value="SI1308EDL-T1-GE3"/>
-<part name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF51" name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="GND35" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R1_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0.47"/>
-<part name="R_TYPE_SEL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="2.2"/>
+<part uuid="0xABCDEF57" name="R1_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0.47"/>
+<part uuid="0xABCDEF7B" name="R_TYPE_SEL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="2.2"/>
 <part name="SJ1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device=""/>
 <part name="GND36" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R_PWR_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF77" name="R_PWR_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part uuid="0xABCDEF01" name="Q1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
-<part name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
-<part name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
+<part uuid="0xABCDEF36" name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
+<part uuid="0xABCDEF67" name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF"/>
 <part name="GND38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND40" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="0.1uF"/>
+<part uuid="0xABCDEF6B" name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="0.1uF"/>
 <part name="GND41" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="TP_OP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_ON" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part uuid="0xABCDEF1B" name="J1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="503480-2400_503480-2400" device="" value="503480-2400"/>
 <part name="GND42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="EPD_C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
-<part name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF2F" name="EPD_C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF29" name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF2B" name="EPD_C5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
+<part uuid="0xABCDEF25" name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF27" name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF21" name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF23" name="EPD_C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF3D" name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF3F" name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
 <part name="EPD_C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
 <part name="GND44" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND45" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="R5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
-<part name="R8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
-<part name="R7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
-<part name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
-<part name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
-<part name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
+<part uuid="0xABCDEF7F" name="R5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF7D" name="R8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF93" name="R7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF79" name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
+<part uuid="0xABCDEF63" name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
+<part uuid="0xABCDEF6D" name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
 <part name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part uuid="0xABCDEF11" name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part uuid="0xABCDEF17" name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="GND46" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND47" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND48" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
+<part uuid="0xABCDEF34" name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
 <part name="GND49" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND50" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND51" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND52" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND53" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
+<part uuid="0xABCDEF61" name="C27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
 <part name="TP_VBAT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_BAT_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="GND54" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part uuid="0xABCDEF05" name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device="" value="KH-TYPE-C-16P"/>
-<part name="R1_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
-<part name="R2_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
+<part uuid="0xABCDEF5D" name="R1_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
+<part uuid="0xABCDEF5F" name="R2_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="5K1"/>
 <part name="GND55" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND56" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND57" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part name="GND58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 <part uuid="0xABCDEF1D" name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
 <part name="GND59" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="4.7uF"/>
-<part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
+<part uuid="0xABCDEF43" name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="4.7uF"/>
+<part uuid="0xABCDEF41" name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF"/>
 <part name="GND60" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
-<part name="C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="820pF"/>
+<part uuid="0xABCDEF81" name="C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="820pF"/>
 <part name="GND61" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.oUWtNktpTq2lWVOVZymSXQ" deviceset="SUPPLY1_GND" device="" value="GND"/>
 </parts>
 <sheets>
@@ -3955,6 +3958,12 @@ Driver</text>
 <text x="820.42" y="185.42" size="3.81" layer="97">USB C Connector &amp; ESD
 Protection</text>
 <text x="469.9" y="259.08" size="1.016" layer="97">N.C.</text>
+<text x="500.38" y="132.08" size="2.54" layer="94">drawn by: MariaGhita</text>
+<text x="957.58" y="129.54" size="2.54" layer="94">drawn by: MariaGhita</text>
+<text x="452.12" y="119.38" size="5.08" layer="94">MCU, Power,
+IMU, SWD</text>
+<text x="911.86" y="116.84" size="5.08" layer="94">E-Paper &amp;
+Peripherals</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="198.12" y="353.06" smashed="yes">
@@ -4079,12 +4088,12 @@ Protection</text>
 <instance part="GND11" gate="1" x="198.12" y="144.78" smashed="yes">
 <attribute name="VALUE" x="195.58" y="142.24" size="1.778" layer="96"/>
 </instance>
-<instance part="R3" gate="G$1" x="261.62" y="157.48" smashed="yes" rot="R180">
-<attribute name="NAME" x="257.81" y="161.29" size="1.778" layer="95" rot="R180" align="center-left"/>
-<attribute name="VALUE" x="252.73" y="161.29" size="1.778" layer="96" rot="R180" align="center-left"/>
+<instance part="R3" gate="G$1" x="261.62" y="152.4" smashed="yes" rot="R180">
+<attribute name="NAME" x="257.81" y="156.21" size="1.778" layer="95" rot="R180" align="center-left"/>
+<attribute name="VALUE" x="252.73" y="156.21" size="1.778" layer="96" rot="R180" align="center-left"/>
 </instance>
-<instance part="GND12" gate="1" x="264.16" y="152.4" smashed="yes">
-<attribute name="VALUE" x="261.62" y="149.86" size="1.778" layer="96"/>
+<instance part="GND12" gate="1" x="264.16" y="144.78" smashed="yes">
+<attribute name="VALUE" x="261.62" y="142.24" size="1.778" layer="96"/>
 </instance>
 <instance part="TP_SWO" gate="G$1" x="302.26" y="165.1" smashed="yes" rot="R270">
 <attribute name="NAME" x="303.53" y="166.37" size="1.778" layer="95"/>
@@ -4578,51 +4587,6 @@ Protection</text>
 <label x="193.04" y="353.06" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="VBUS/2.6D" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="IN"/>
-<wire x1="198.12" y1="350.52" x2="177.8" y2="350.52" width="0.1524" layer="91"/>
-<label x="172.72" y="350.52" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="177.8" y1="350.52" x2="172.72" y2="350.52" width="0.1524" layer="91"/>
-<junction x="177.8" y="350.52"/>
-<wire x1="177.8" y1="350.52" x2="177.8" y2="340.36" width="0.1524" layer="91"/>
-<pinref part="C38" gate="G$1" pin="2"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="VBUS@AD2"/>
-<wire x1="391.16" y1="223.52" x2="391.16" y2="215.9" width="0.1524" layer="91"/>
-<wire x1="391.16" y1="215.9" x2="383.54" y2="215.9" width="0.1524" layer="91"/>
-<label x="375.92" y="215.9" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="383.54" y1="215.9" x2="375.92" y2="215.9" width="0.1524" layer="91"/>
-<junction x="383.54" y="215.9"/>
-<wire x1="383.54" y1="215.9" x2="383.54" y2="210.82" width="0.1524" layer="91"/>
-<pinref part="C21" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="SCL/2.4C" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="SCL"/>
-<wire x1="198.12" y1="347.98" x2="193.04" y2="347.98" width="0.1524" layer="91"/>
-<label x="193.04" y="347.98" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<label x="269.24" y="274.32" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R17" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="218.44" x2="208.28" y2="218.44" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="218.44" x2="213.36" y2="218.44" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="218.44" x2="208.28" y2="220.98" width="0.1524" layer="91"/>
-<junction x="208.28" y="218.44"/>
-<label x="213.36" y="218.44" size="1.778" layer="95" xref="yes"/>
-<pinref part="TP_SCL" gate="G$1" pin="TP"/>
-</segment>
-<segment>
-<pinref part="IC3" gate="G$1" pin="SCX"/>
-<wire x1="218.44" y1="147.32" x2="218.44" y2="139.7" width="0.1524" layer="91"/>
-<label x="218.44" y="139.7" size="1.778" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
 <net name="VREG" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="SYS"/>
@@ -4661,31 +4625,7 @@ Protection</text>
 <label x="185.42" y="238.76" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="SDA/2.4C" class="0">
-<segment>
-<pinref part="IC1" gate="G$1" pin="SDA"/>
-<wire x1="226.06" y1="353.06" x2="233.68" y2="353.06" width="0.1524" layer="91"/>
-<label x="233.68" y="353.06" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<label x="266.7" y="266.7" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R18" gate="G$1" pin="2"/>
-<wire x1="200.66" y1="205.74" x2="208.28" y2="205.74" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="205.74" x2="213.36" y2="205.74" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="205.74" x2="208.28" y2="203.2" width="0.1524" layer="91"/>
-<junction x="208.28" y="205.74"/>
-<label x="213.36" y="205.74" size="1.778" layer="95" xref="yes"/>
-<pinref part="TP_SDA" gate="G$1" pin="TP"/>
-</segment>
-<segment>
-<pinref part="IC3" gate="G$1" pin="SDX"/>
-<wire x1="236.22" y1="160.02" x2="238.76" y2="160.02" width="0.1524" layer="91"/>
-<label x="238.76" y="160.02" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="VBAT/2.5C" class="0">
+<net name="VBAT" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="BAT"/>
 <wire x1="226.06" y1="350.52" x2="241.3" y2="350.52" width="0.1524" layer="91"/>
@@ -4694,6 +4634,25 @@ Protection</text>
 <wire x1="241.3" y1="350.52" x2="241.3" y2="340.36" width="0.1524" layer="91"/>
 <pinref part="C37" gate="G$1" pin="2"/>
 <junction x="241.3" y="350.52"/>
+</segment>
+<segment>
+<pinref part="TP_VBAT" gate="G$1" pin="TP"/>
+<wire x1="838.2" y1="243.84" x2="833.12" y2="243.84" width="0.1524" layer="91"/>
+<label x="833.12" y="243.84" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="CELL"/>
+<wire x1="784.86" y1="231.14" x2="792.48" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="792.48" y1="231.14" x2="795.02" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="792.48" y1="231.14" x2="792.48" y2="228.6" width="0.1524" layer="91"/>
+<pinref part="U3" gate="G$1" pin="VDD"/>
+<wire x1="784.86" y1="228.6" x2="792.48" y2="228.6" width="0.1524" layer="91"/>
+<wire x1="792.48" y1="228.6" x2="805.18" y2="228.6" width="0.1524" layer="91"/>
+<label x="795.02" y="231.14" size="1.778" layer="95" xref="yes"/>
+<wire x1="805.18" y1="228.6" x2="805.18" y2="215.9" width="0.1524" layer="91"/>
+<junction x="792.48" y="231.14"/>
+<junction x="792.48" y="228.6"/>
+<pinref part="C27" gate="C$1" pin="1"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -4784,8 +4743,8 @@ Protection</text>
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="261.62" y1="157.48" x2="264.16" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="264.16" y1="157.48" x2="264.16" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="261.62" y1="152.4" x2="264.16" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="264.16" y1="147.32" x2="264.16" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="GND12" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -5216,108 +5175,6 @@ Protection</text>
 </net>
 <net name="SCL/2.4C1" class="0">
 </net>
-<net name="3V3/2.4A" class="0">
-<segment>
-<label x="256.54" y="261.62" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="TP_3V3" gate="G$1" pin="TP"/>
-<wire x1="180.34" y1="246.38" x2="182.88" y2="246.38" width="0.1524" layer="91"/>
-<label x="182.88" y="246.38" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R17" gate="G$1" pin="1"/>
-<wire x1="182.88" y1="218.44" x2="180.34" y2="218.44" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="218.44" x2="180.34" y2="205.74" width="0.1524" layer="91"/>
-<wire x1="180.34" y1="205.74" x2="182.88" y2="205.74" width="0.1524" layer="91"/>
-<pinref part="R18" gate="G$1" pin="1"/>
-<wire x1="180.34" y1="218.44" x2="175.26" y2="218.44" width="0.1524" layer="91"/>
-<label x="175.26" y="218.44" size="1.778" layer="95" rot="MR0" xref="yes"/>
-<junction x="180.34" y="218.44"/>
-</segment>
-<segment>
-<pinref part="IC3" gate="G$1" pin="VDD"/>
-<wire x1="198.12" y1="165.1" x2="195.58" y2="165.1" width="0.1524" layer="91"/>
-<pinref part="IC3" gate="G$1" pin="CSB"/>
-<wire x1="198.12" y1="157.48" x2="195.58" y2="157.48" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="157.48" x2="195.58" y2="165.1" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="165.1" x2="187.96" y2="165.1" width="0.1524" layer="91"/>
-<label x="182.88" y="165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="187.96" y1="165.1" x2="182.88" y2="165.1" width="0.1524" layer="91"/>
-<wire x1="187.96" y1="165.1" x2="187.96" y2="160.02" width="0.1524" layer="91"/>
-<pinref part="C19" gate="C$1" pin="1"/>
-<junction x="195.58" y="165.1"/>
-<junction x="187.96" y="165.1"/>
-</segment>
-<segment>
-<pinref part="IC3" gate="G$1" pin="VDDIO"/>
-<wire x1="236.22" y1="162.56" x2="238.76" y2="162.56" width="0.1524" layer="91"/>
-<label x="238.76" y="162.56" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="TP_3.3V" gate="G$1" pin="TP"/>
-<wire x1="299.72" y1="137.16" x2="297.18" y2="137.16" width="0.1524" layer="91"/>
-<label x="297.18" y="137.16" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="J2" gate="G$1" pin="1"/>
-<wire x1="502.92" y1="152.4" x2="497.84" y2="152.4" width="0.1524" layer="91"/>
-<label x="497.84" y="152.4" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="VDD@AD23"/>
-<wire x1="452.12" y1="241.3" x2="467.36" y2="241.3" width="0.1524" layer="91"/>
-<wire x1="467.36" y1="241.3" x2="474.98" y2="241.3" width="0.1524" layer="91"/>
-<label x="474.98" y="241.3" size="1.778" layer="95" xref="yes"/>
-<pinref part="C8" gate="C$1" pin="1"/>
-<junction x="467.36" y="241.3"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="VDD@AD14"/>
-<wire x1="414.02" y1="223.52" x2="414.02" y2="193.04" width="0.1524" layer="91"/>
-<wire x1="414.02" y1="193.04" x2="403.86" y2="193.04" width="0.1524" layer="91"/>
-<wire x1="403.86" y1="193.04" x2="396.24" y2="193.04" width="0.1524" layer="91"/>
-<junction x="403.86" y="193.04"/>
-<wire x1="403.86" y1="193.04" x2="403.86" y2="190.5" width="0.1524" layer="91"/>
-<label x="396.24" y="193.04" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="C7" gate="C$1" pin="1"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="VDDH@Y2"/>
-<wire x1="373.38" y1="246.38" x2="360.68" y2="246.38" width="0.1524" layer="91"/>
-<wire x1="360.68" y1="246.38" x2="360.68" y2="248.92" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="VDD@W1"/>
-<wire x1="373.38" y1="248.92" x2="360.68" y2="248.92" width="0.1524" layer="91"/>
-<wire x1="360.68" y1="248.92" x2="350.52" y2="248.92" width="0.1524" layer="91"/>
-<junction x="360.68" y="248.92"/>
-<wire x1="350.52" y1="248.92" x2="345.44" y2="248.92" width="0.1524" layer="91"/>
-<junction x="350.52" y="248.92"/>
-<wire x1="350.52" y1="248.92" x2="350.52" y2="243.84" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="1"/>
-<label x="345.44" y="248.92" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="C14" gate="G$1" pin="1"/>
-<wire x1="375.92" y1="320.04" x2="375.92" y2="325.12" width="0.1524" layer="91"/>
-<wire x1="375.92" y1="325.12" x2="375.92" y2="327.66" width="0.1524" layer="91"/>
-<junction x="375.92" y="325.12"/>
-<wire x1="375.92" y1="325.12" x2="383.54" y2="325.12" width="0.1524" layer="91"/>
-<wire x1="383.54" y1="325.12" x2="383.54" y2="302.26" width="0.1524" layer="91"/>
-<wire x1="383.54" y1="302.26" x2="391.16" y2="302.26" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="VDD@B1"/>
-<label x="375.92" y="327.66" size="1.778" layer="95" rot="R90" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="VDD@A22"/>
-<wire x1="434.34" y1="302.26" x2="434.34" y2="320.04" width="0.1524" layer="91"/>
-<wire x1="434.34" y1="320.04" x2="439.42" y2="320.04" width="0.1524" layer="91"/>
-<label x="441.96" y="320.04" size="1.778" layer="95" xref="yes"/>
-<wire x1="439.42" y1="320.04" x2="441.96" y2="320.04" width="0.1524" layer="91"/>
-<junction x="439.42" y="320.04"/>
-<wire x1="439.42" y1="320.04" x2="439.42" y2="317.5" width="0.1524" layer="91"/>
-<pinref part="C12" gate="C$1" pin="1"/>
-</segment>
-</net>
 <net name="IMU_INT2" class="0">
 <segment>
 <pinref part="IC3" gate="G$1" pin="INT2"/>
@@ -5335,7 +5192,8 @@ Protection</text>
 <net name="N$10" class="0">
 <segment>
 <pinref part="IC3" gate="G$1" pin="SDO"/>
-<wire x1="236.22" y1="157.48" x2="243.84" y2="157.48" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="157.48" x2="236.22" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="152.4" x2="243.84" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 </segment>
 </net>
@@ -5444,53 +5302,102 @@ Protection</text>
 <label x="416.56" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
-<net name="EPD_BUSY/2.2D" class="0">
+<net name="EPD_BUSY" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.17@AD12"/>
 <wire x1="408.94" y1="223.52" x2="408.94" y2="218.44" width="0.1524" layer="91"/>
 <label x="408.94" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="9"/>
+<wire x1="706.12" y1="205.74" x2="703.58" y2="205.74" width="0.1524" layer="91"/>
+<label x="703.58" y="205.74" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
-<net name="EPD_RST/2.2D" class="0">
+<net name="EPD_RST" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.16@AC11"/>
 <wire x1="406.4" y1="223.52" x2="406.4" y2="218.44" width="0.1524" layer="91"/>
 <label x="406.4" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="10"/>
+<wire x1="706.12" y1="203.2" x2="703.58" y2="203.2" width="0.1524" layer="91"/>
+<label x="703.58" y="203.2" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
-<net name="EPD_DC/2.2D" class="0">
+<net name="EPD_DC" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.15@AD10"/>
 <wire x1="403.86" y1="223.52" x2="403.86" y2="218.44" width="0.1524" layer="91"/>
 <label x="403.86" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="11"/>
+<wire x1="706.12" y1="200.66" x2="703.58" y2="200.66" width="0.1524" layer="91"/>
+<label x="703.58" y="200.66" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
-<net name="P0.14/2.7C" class="0">
+<net name="P0.14" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.14@AC9"/>
 <wire x1="401.32" y1="223.52" x2="401.32" y2="218.44" width="0.1524" layer="91"/>
 <label x="401.32" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="R8" gate="G$1" pin="1"/>
+<wire x1="924.56" y1="241.3" x2="924.56" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="924.56" y1="238.76" x2="924.56" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="924.56" y1="238.76" x2="916.94" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="916.94" y1="238.76" x2="916.94" y2="236.22" width="0.1524" layer="91"/>
+<pinref part="SW_ENT" gate="A" pin="2"/>
+<wire x1="924.56" y1="238.76" x2="927.1" y2="238.76" width="0.1524" layer="91"/>
+<label x="927.1" y="238.76" size="1.778" layer="95" xref="yes"/>
+<junction x="924.56" y="238.76"/>
+<pinref part="C31" gate="C$1" pin="2"/>
+</segment>
 </net>
-<net name="P0.13/2.6C" class="0">
+<net name="P0.13" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.13@AD8"/>
 <wire x1="398.78" y1="223.52" x2="398.78" y2="218.44" width="0.1524" layer="91"/>
 <label x="398.78" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="883.92" y1="241.3" x2="883.92" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="883.92" y1="238.76" x2="883.92" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="883.92" y1="238.76" x2="876.3" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="876.3" y1="238.76" x2="876.3" y2="236.22" width="0.1524" layer="91"/>
+<pinref part="SW_UP" gate="A" pin="2"/>
+<junction x="883.92" y="238.76"/>
+<wire x1="883.92" y1="238.76" x2="886.46" y2="238.76" width="0.1524" layer="91"/>
+<label x="886.46" y="238.76" size="1.778" layer="95" xref="yes"/>
+<pinref part="C30" gate="C$1" pin="2"/>
+</segment>
 </net>
-<net name="D+/2.7D" class="0">
+<net name="D+" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="D+@AD6"/>
 <wire x1="396.24" y1="223.52" x2="396.24" y2="218.44" width="0.1524" layer="91"/>
 <label x="396.24" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
+<segment>
+<pinref part="D3" gate="G$1" pin="I/O2_2"/>
+<wire x1="957.58" y1="187.96" x2="962.66" y2="187.96" width="0.1524" layer="91"/>
+<label x="962.66" y="187.96" size="1.778" layer="95" xref="yes"/>
+</segment>
 </net>
-<net name="D-/2.7D" class="0">
+<net name="D-" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="D-@AD4"/>
 <wire x1="393.7" y1="223.52" x2="393.7" y2="218.44" width="0.1524" layer="91"/>
 <label x="393.7" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
+</segment>
+<segment>
+<pinref part="D3" gate="G$1" pin="I/O1_2"/>
+<wire x1="957.58" y1="193.04" x2="962.66" y2="193.04" width="0.1524" layer="91"/>
+<label x="962.66" y="193.04" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="P0.20" class="0">
@@ -5709,18 +5616,28 @@ Protection</text>
 <label x="408.94" y="307.34" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
-<net name="SCK/2.2D" class="0">
+<net name="SCK" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.02/AIN0@A12"/>
 <wire x1="411.48" y1="302.26" x2="411.48" y2="307.34" width="0.1524" layer="91"/>
 <label x="411.48" y="307.34" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="13"/>
+<wire x1="706.12" y1="195.58" x2="703.58" y2="195.58" width="0.1524" layer="91"/>
+<label x="703.58" y="195.58" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
-<net name="MOSI/2.2D" class="0">
+<net name="MOSI" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.03/AIN1@B13"/>
 <wire x1="414.02" y1="302.26" x2="414.02" y2="307.34" width="0.1524" layer="91"/>
 <label x="414.02" y="307.34" size="1.778" layer="95" rot="R90" xref="yes"/>
+</segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="14"/>
+<wire x1="706.12" y1="193.04" x2="703.58" y2="193.04" width="0.1524" layer="91"/>
+<label x="703.58" y="193.04" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="P1.15" class="0">
@@ -5826,18 +5743,39 @@ Protection</text>
 <label x="457.2" y="254" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="P1.02/2.8C" class="0">
+<net name="P1.02" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.02@W24"/>
 <wire x1="452.12" y1="251.46" x2="457.2" y2="251.46" width="0.1524" layer="91"/>
 <label x="457.2" y="251.46" size="1.778" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="R7" gate="G$1" pin="1"/>
+<wire x1="960.12" y1="241.3" x2="960.12" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="960.12" y1="238.76" x2="960.12" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="960.12" y1="238.76" x2="949.96" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="949.96" y1="238.76" x2="949.96" y2="236.22" width="0.1524" layer="91"/>
+<pinref part="SW_DN" gate="A" pin="2"/>
+<junction x="960.12" y="238.76"/>
+<wire x1="960.12" y1="238.76" x2="965.2" y2="238.76" width="0.1524" layer="91"/>
+<label x="965.2" y="238.76" size="1.778" layer="95" xref="yes"/>
+<pinref part="C29" gate="C$1" pin="2"/>
+</segment>
 </net>
-<net name="P1.01/2.4B" class="0">
+<net name="P1.01" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.01@Y23"/>
 <wire x1="452.12" y1="248.92" x2="457.2" y2="248.92" width="0.1524" layer="91"/>
 <label x="457.2" y="248.92" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R_PWR_EPD" gate="G$1" pin="1"/>
+<wire x1="812.8" y1="292.1" x2="812.8" y2="284.48" width="0.1524" layer="91"/>
+<wire x1="812.8" y1="284.48" x2="807.72" y2="284.48" width="0.1524" layer="91"/>
+<wire x1="812.8" y1="284.48" x2="817.88" y2="284.48" width="0.1524" layer="91"/>
+<junction x="812.8" y="284.48"/>
+<label x="807.72" y="284.48" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="Q1" gate="G$1" pin="G"/>
 </segment>
 </net>
 <net name="P0.09" class="0">
@@ -5847,11 +5785,16 @@ Protection</text>
 <label x="457.2" y="269.24" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="ALERT/2.5C" class="0">
+<net name="ALERT" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="P0.10/NFC2@J24"/>
 <wire x1="452.12" y1="271.78" x2="457.2" y2="271.78" width="0.1524" layer="91"/>
 <label x="457.2" y="271.78" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="!ALERT"/>
+<wire x1="784.86" y1="220.98" x2="784.86" y2="218.44" width="0.1524" layer="91"/>
+<label x="784.86" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="N$29" class="0">
@@ -6042,47 +5985,6 @@ Protection</text>
 <label x="812.8" y="320.04" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
-<net name="P1.01/1.6C" class="0">
-<segment>
-<pinref part="R_PWR_EPD" gate="G$1" pin="1"/>
-<wire x1="812.8" y1="292.1" x2="812.8" y2="284.48" width="0.1524" layer="91"/>
-<wire x1="812.8" y1="284.48" x2="807.72" y2="284.48" width="0.1524" layer="91"/>
-<wire x1="812.8" y1="284.48" x2="817.88" y2="284.48" width="0.1524" layer="91"/>
-<junction x="812.8" y="284.48"/>
-<label x="807.72" y="284.48" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="Q1" gate="G$1" pin="G"/>
-</segment>
-</net>
-<net name="3V3/1.7D" class="0">
-<segment>
-<pinref part="Q1" gate="G$1" pin="S"/>
-<wire x1="825.5" y1="281.94" x2="825.5" y2="276.86" width="0.1524" layer="91"/>
-<label x="825.5" y="276.86" size="1.778" layer="95" rot="R270" xref="yes"/>
-</segment>
-<segment>
-<pinref part="IC2" gate="G$1" pin="VDD"/>
-<wire x1="944.88" y1="317.5" x2="957.58" y2="317.5" width="0.1524" layer="91"/>
-<label x="960.12" y="317.5" size="1.778" layer="95" xref="yes"/>
-<wire x1="957.58" y1="317.5" x2="960.12" y2="317.5" width="0.1524" layer="91"/>
-<junction x="957.58" y="317.5"/>
-<wire x1="957.58" y1="317.5" x2="957.58" y2="307.34" width="0.1524" layer="91"/>
-<pinref part="C34" gate="G$1" pin="1"/>
-</segment>
-<segment>
-<wire x1="972.82" y1="266.7" x2="960.12" y2="266.7" width="0.1524" layer="91"/>
-<wire x1="960.12" y1="266.7" x2="924.56" y2="266.7" width="0.1524" layer="91"/>
-<wire x1="924.56" y1="266.7" x2="883.92" y2="266.7" width="0.1524" layer="91"/>
-<wire x1="883.92" y1="266.7" x2="883.92" y2="259.08" width="0.1524" layer="91"/>
-<junction x="924.56" y="266.7"/>
-<wire x1="924.56" y1="266.7" x2="924.56" y2="259.08" width="0.1524" layer="91"/>
-<junction x="960.12" y="266.7"/>
-<wire x1="960.12" y1="266.7" x2="960.12" y2="259.08" width="0.1524" layer="91"/>
-<pinref part="R5" gate="G$1" pin="2"/>
-<pinref part="R8" gate="G$1" pin="2"/>
-<pinref part="R7" gate="G$1" pin="2"/>
-<label x="972.82" y="266.7" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
 <net name="HAPTIC_EN/1.4C" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="EN"/>
@@ -6098,18 +6000,6 @@ Protection</text>
 <pinref part="C32" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="SDA/1.4C" class="0">
-<segment>
-<pinref part="IC2" gate="G$1" pin="SDA"/>
-<wire x1="911.86" y1="312.42" x2="896.62" y2="312.42" width="0.1524" layer="91"/>
-<label x="896.62" y="312.42" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U3" gate="G$1" pin="SDA"/>
-<wire x1="749.3" y1="213.36" x2="746.76" y2="213.36" width="0.1524" layer="91"/>
-<label x="746.76" y="213.36" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
 <net name="OUT+" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="OUT+"/>
@@ -6120,18 +6010,6 @@ Protection</text>
 <pinref part="TP_OP" gate="G$1" pin="TP"/>
 <wire x1="957.58" y1="347.98" x2="952.5" y2="347.98" width="0.1524" layer="91"/>
 <label x="952.5" y="347.98" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="SCL/1.4C" class="0">
-<segment>
-<pinref part="IC2" gate="G$1" pin="SCL"/>
-<wire x1="944.88" y1="320.04" x2="960.12" y2="320.04" width="0.1524" layer="91"/>
-<label x="960.12" y="320.04" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U3" gate="G$1" pin="SCL"/>
-<wire x1="749.3" y1="218.44" x2="746.76" y2="218.44" width="0.1524" layer="91"/>
-<label x="746.76" y="218.44" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="OUT-" class="0">
@@ -6160,46 +6038,11 @@ Protection</text>
 <pinref part="EPD_C2" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="EPD_BUSY/1.5D" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="9"/>
-<wire x1="706.12" y1="205.74" x2="703.58" y2="205.74" width="0.1524" layer="91"/>
-<label x="703.58" y="205.74" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="EPD_RST/1.5D" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="10"/>
-<wire x1="706.12" y1="203.2" x2="703.58" y2="203.2" width="0.1524" layer="91"/>
-<label x="703.58" y="203.2" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="EPD_DC/1.5D" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="11"/>
-<wire x1="706.12" y1="200.66" x2="703.58" y2="200.66" width="0.1524" layer="91"/>
-<label x="703.58" y="200.66" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="EPD_CS/1.4C" class="0">
+<net name="EPD_CS" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="12"/>
 <wire x1="706.12" y1="198.12" x2="703.58" y2="198.12" width="0.1524" layer="91"/>
 <label x="703.58" y="198.12" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="SCK/1.5B" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="13"/>
-<wire x1="706.12" y1="195.58" x2="703.58" y2="195.58" width="0.1524" layer="91"/>
-<label x="703.58" y="195.58" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="MOSI/1.5B" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="14"/>
-<wire x1="706.12" y1="193.04" x2="703.58" y2="193.04" width="0.1524" layer="91"/>
-<label x="703.58" y="193.04" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$37" class="0">
@@ -6242,76 +6085,6 @@ Protection</text>
 <pinref part="J1" gate="G$1" pin="24"/>
 <wire x1="706.12" y1="167.64" x2="660.4" y2="167.64" width="0.1524" layer="91"/>
 <pinref part="EPD_C12" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="P0.13/1.5D" class="0">
-<segment>
-<pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="883.92" y1="241.3" x2="883.92" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="883.92" y1="238.76" x2="883.92" y2="236.22" width="0.1524" layer="91"/>
-<wire x1="883.92" y1="238.76" x2="876.3" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="876.3" y1="238.76" x2="876.3" y2="236.22" width="0.1524" layer="91"/>
-<pinref part="SW_UP" gate="A" pin="2"/>
-<junction x="883.92" y="238.76"/>
-<wire x1="883.92" y1="238.76" x2="886.46" y2="238.76" width="0.1524" layer="91"/>
-<label x="886.46" y="238.76" size="1.778" layer="95" xref="yes"/>
-<pinref part="C30" gate="C$1" pin="2"/>
-</segment>
-</net>
-<net name="P0.14/1.5D" class="0">
-<segment>
-<pinref part="R8" gate="G$1" pin="1"/>
-<wire x1="924.56" y1="241.3" x2="924.56" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="924.56" y1="238.76" x2="924.56" y2="236.22" width="0.1524" layer="91"/>
-<wire x1="924.56" y1="238.76" x2="916.94" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="916.94" y1="238.76" x2="916.94" y2="236.22" width="0.1524" layer="91"/>
-<pinref part="SW_ENT" gate="A" pin="2"/>
-<wire x1="924.56" y1="238.76" x2="927.1" y2="238.76" width="0.1524" layer="91"/>
-<label x="927.1" y="238.76" size="1.778" layer="95" xref="yes"/>
-<junction x="924.56" y="238.76"/>
-<pinref part="C31" gate="C$1" pin="2"/>
-</segment>
-</net>
-<net name="P1.02/1.6C" class="0">
-<segment>
-<pinref part="R7" gate="G$1" pin="1"/>
-<wire x1="960.12" y1="241.3" x2="960.12" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="960.12" y1="238.76" x2="960.12" y2="236.22" width="0.1524" layer="91"/>
-<wire x1="960.12" y1="238.76" x2="949.96" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="949.96" y1="238.76" x2="949.96" y2="236.22" width="0.1524" layer="91"/>
-<pinref part="SW_DN" gate="A" pin="2"/>
-<junction x="960.12" y="238.76"/>
-<wire x1="960.12" y1="238.76" x2="965.2" y2="238.76" width="0.1524" layer="91"/>
-<label x="965.2" y="238.76" size="1.778" layer="95" xref="yes"/>
-<pinref part="C29" gate="C$1" pin="2"/>
-</segment>
-</net>
-<net name="ALERT/1.6C" class="0">
-<segment>
-<pinref part="U3" gate="G$1" pin="!ALERT"/>
-<wire x1="784.86" y1="220.98" x2="784.86" y2="218.44" width="0.1524" layer="91"/>
-<label x="784.86" y="218.44" size="1.778" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
-<net name="VBAT/1.2A" class="0">
-<segment>
-<pinref part="U3" gate="G$1" pin="CELL"/>
-<wire x1="784.86" y1="231.14" x2="792.48" y2="231.14" width="0.1524" layer="91"/>
-<wire x1="792.48" y1="231.14" x2="795.02" y2="231.14" width="0.1524" layer="91"/>
-<wire x1="792.48" y1="231.14" x2="792.48" y2="228.6" width="0.1524" layer="91"/>
-<pinref part="U3" gate="G$1" pin="VDD"/>
-<wire x1="784.86" y1="228.6" x2="792.48" y2="228.6" width="0.1524" layer="91"/>
-<wire x1="792.48" y1="228.6" x2="805.18" y2="228.6" width="0.1524" layer="91"/>
-<label x="795.02" y="231.14" size="1.778" layer="95" xref="yes"/>
-<wire x1="805.18" y1="228.6" x2="805.18" y2="215.9" width="0.1524" layer="91"/>
-<junction x="792.48" y="231.14"/>
-<junction x="792.48" y="228.6"/>
-<pinref part="C27" gate="C$1" pin="1"/>
-</segment>
-<segment>
-<pinref part="TP_VBAT" gate="G$1" pin="TP"/>
-<wire x1="838.2" y1="243.84" x2="833.12" y2="243.84" width="0.1524" layer="91"/>
-<label x="833.12" y="243.84" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$43" class="0">
@@ -6362,16 +6135,37 @@ Protection</text>
 <pinref part="R2_USB" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="VBUS/1.5D" class="0">
+<net name="N$27" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="DEC5@N24"/>
+<wire x1="452.12" y1="266.7" x2="472.44" y2="266.7" width="0.1524" layer="91"/>
+<pinref part="C9" gate="C$1" pin="1"/>
+</segment>
+</net>
+<net name="VBUS" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="IN"/>
+<wire x1="198.12" y1="350.52" x2="177.8" y2="350.52" width="0.1524" layer="91"/>
+<label x="172.72" y="350.52" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="177.8" y1="350.52" x2="172.72" y2="350.52" width="0.1524" layer="91"/>
+<junction x="177.8" y="350.52"/>
+<wire x1="177.8" y1="350.52" x2="177.8" y2="340.36" width="0.1524" layer="91"/>
+<pinref part="C38" gate="G$1" pin="2"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VBUS@AD2"/>
+<wire x1="391.16" y1="223.52" x2="391.16" y2="215.9" width="0.1524" layer="91"/>
+<wire x1="391.16" y1="215.9" x2="383.54" y2="215.9" width="0.1524" layer="91"/>
+<label x="375.92" y="215.9" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="383.54" y1="215.9" x2="375.92" y2="215.9" width="0.1524" layer="91"/>
+<junction x="383.54" y="215.9"/>
+<wire x1="383.54" y1="215.9" x2="383.54" y2="210.82" width="0.1524" layer="91"/>
+<pinref part="C21" gate="G$1" pin="1"/>
+</segment>
 <segment>
 <pinref part="J4" gate="G$1" pin="VBUS"/>
 <wire x1="858.52" y1="175.26" x2="866.14" y2="175.26" width="0.1524" layer="91"/>
 <label x="866.14" y="175.26" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="D3" gate="G$1" pin="VBUS"/>
-<wire x1="957.58" y1="190.5" x2="962.66" y2="190.5" width="0.1524" layer="91"/>
-<label x="962.66" y="190.5" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="937.26" y1="162.56" x2="937.26" y2="170.18" width="0.1524" layer="91"/>
@@ -6380,30 +6174,212 @@ Protection</text>
 <wire x1="955.04" y1="170.18" x2="955.04" y2="157.48" width="0.1524" layer="91"/>
 <junction x="947.42" y="170.18"/>
 <wire x1="947.42" y1="170.18" x2="947.42" y2="172.72" width="0.1524" layer="91"/>
-<label x="947.42" y="172.72" size="1.778" layer="95" xref="yes"/>
+<label x="947.42" y="172.72" size="1.778" layer="95" rot="R90" xref="yes"/>
 <pinref part="C42" gate="C$1" pin="1"/>
 <pinref part="C43" gate="C$1" pin="1"/>
 </segment>
-</net>
-<net name="D-/1.5D" class="0">
 <segment>
-<pinref part="D3" gate="G$1" pin="I/O1_2"/>
-<wire x1="957.58" y1="193.04" x2="962.66" y2="193.04" width="0.1524" layer="91"/>
-<label x="962.66" y="193.04" size="1.778" layer="95" xref="yes"/>
+<pinref part="D3" gate="G$1" pin="VBUS"/>
+<wire x1="957.58" y1="190.5" x2="962.66" y2="190.5" width="0.1524" layer="91"/>
+<label x="962.66" y="190.5" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="D+/1.5D" class="0">
+<net name="SDA" class="0">
 <segment>
-<pinref part="D3" gate="G$1" pin="I/O2_2"/>
-<wire x1="957.58" y1="187.96" x2="962.66" y2="187.96" width="0.1524" layer="91"/>
-<label x="962.66" y="187.96" size="1.778" layer="95" xref="yes"/>
+<pinref part="IC1" gate="G$1" pin="SDA"/>
+<wire x1="226.06" y1="353.06" x2="233.68" y2="353.06" width="0.1524" layer="91"/>
+<label x="233.68" y="353.06" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<label x="266.7" y="266.7" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R18" gate="G$1" pin="2"/>
+<wire x1="200.66" y1="205.74" x2="208.28" y2="205.74" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="205.74" x2="213.36" y2="205.74" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="205.74" x2="208.28" y2="203.2" width="0.1524" layer="91"/>
+<junction x="208.28" y="205.74"/>
+<label x="213.36" y="205.74" size="1.778" layer="95" xref="yes"/>
+<pinref part="TP_SDA" gate="G$1" pin="TP"/>
+</segment>
+<segment>
+<pinref part="IC3" gate="G$1" pin="SDX"/>
+<wire x1="236.22" y1="160.02" x2="238.76" y2="160.02" width="0.1524" layer="91"/>
+<label x="238.76" y="160.02" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="SDA"/>
+<wire x1="749.3" y1="213.36" x2="746.76" y2="213.36" width="0.1524" layer="91"/>
+<label x="746.76" y="213.36" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="SDA"/>
+<wire x1="911.86" y1="312.42" x2="896.62" y2="312.42" width="0.1524" layer="91"/>
+<label x="896.62" y="312.42" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="N$27" class="0">
+<net name="SCL" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DEC5@N24"/>
-<wire x1="452.12" y1="266.7" x2="472.44" y2="266.7" width="0.1524" layer="91"/>
-<pinref part="C9" gate="C$1" pin="1"/>
+<pinref part="IC1" gate="G$1" pin="SCL"/>
+<wire x1="198.12" y1="347.98" x2="193.04" y2="347.98" width="0.1524" layer="91"/>
+<label x="193.04" y="347.98" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<label x="269.24" y="274.32" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R17" gate="G$1" pin="2"/>
+<wire x1="200.66" y1="218.44" x2="208.28" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="218.44" x2="213.36" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="218.44" x2="208.28" y2="220.98" width="0.1524" layer="91"/>
+<junction x="208.28" y="218.44"/>
+<label x="213.36" y="218.44" size="1.778" layer="95" xref="yes"/>
+<pinref part="TP_SCL" gate="G$1" pin="TP"/>
+</segment>
+<segment>
+<pinref part="IC3" gate="G$1" pin="SCX"/>
+<wire x1="218.44" y1="147.32" x2="218.44" y2="139.7" width="0.1524" layer="91"/>
+<label x="218.44" y="139.7" size="1.778" layer="95" rot="R270" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="SCL"/>
+<wire x1="749.3" y1="218.44" x2="746.76" y2="218.44" width="0.1524" layer="91"/>
+<label x="746.76" y="218.44" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="SCL"/>
+<wire x1="944.88" y1="320.04" x2="960.12" y2="320.04" width="0.1524" layer="91"/>
+<label x="960.12" y="320.04" size="1.778" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="3V3" class="0">
+<segment>
+<label x="256.54" y="261.62" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="TP_3V3" gate="G$1" pin="TP"/>
+<wire x1="180.34" y1="246.38" x2="182.88" y2="246.38" width="0.1524" layer="91"/>
+<label x="182.88" y="246.38" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R17" gate="G$1" pin="1"/>
+<wire x1="182.88" y1="218.44" x2="180.34" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="218.44" x2="180.34" y2="205.74" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="205.74" x2="182.88" y2="205.74" width="0.1524" layer="91"/>
+<pinref part="R18" gate="G$1" pin="1"/>
+<wire x1="180.34" y1="218.44" x2="175.26" y2="218.44" width="0.1524" layer="91"/>
+<label x="175.26" y="218.44" size="1.778" layer="95" rot="MR0" xref="yes"/>
+<junction x="180.34" y="218.44"/>
+</segment>
+<segment>
+<pinref part="IC3" gate="G$1" pin="VDD"/>
+<wire x1="198.12" y1="165.1" x2="195.58" y2="165.1" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="G$1" pin="CSB"/>
+<wire x1="198.12" y1="157.48" x2="195.58" y2="157.48" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="157.48" x2="195.58" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="165.1" x2="187.96" y2="165.1" width="0.1524" layer="91"/>
+<label x="182.88" y="165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="187.96" y1="165.1" x2="182.88" y2="165.1" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="165.1" x2="187.96" y2="160.02" width="0.1524" layer="91"/>
+<pinref part="C19" gate="C$1" pin="1"/>
+<junction x="195.58" y="165.1"/>
+<junction x="187.96" y="165.1"/>
+</segment>
+<segment>
+<pinref part="IC3" gate="G$1" pin="VDDIO"/>
+<wire x1="236.22" y1="162.56" x2="238.76" y2="162.56" width="0.1524" layer="91"/>
+<label x="238.76" y="162.56" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="TP_3.3V" gate="G$1" pin="TP"/>
+<wire x1="299.72" y1="137.16" x2="297.18" y2="137.16" width="0.1524" layer="91"/>
+<label x="297.18" y="137.16" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="J2" gate="G$1" pin="1"/>
+<wire x1="502.92" y1="152.4" x2="497.84" y2="152.4" width="0.1524" layer="91"/>
+<label x="497.84" y="152.4" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VDDH@Y2"/>
+<wire x1="373.38" y1="246.38" x2="360.68" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="360.68" y1="246.38" x2="360.68" y2="248.92" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="VDD@W1"/>
+<wire x1="373.38" y1="248.92" x2="360.68" y2="248.92" width="0.1524" layer="91"/>
+<wire x1="360.68" y1="248.92" x2="350.52" y2="248.92" width="0.1524" layer="91"/>
+<junction x="360.68" y="248.92"/>
+<wire x1="350.52" y1="248.92" x2="345.44" y2="248.92" width="0.1524" layer="91"/>
+<junction x="350.52" y="248.92"/>
+<wire x1="350.52" y1="248.92" x2="350.52" y2="243.84" width="0.1524" layer="91"/>
+<pinref part="C6" gate="G$1" pin="1"/>
+<label x="345.44" y="248.92" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="C14" gate="G$1" pin="1"/>
+<wire x1="375.92" y1="320.04" x2="375.92" y2="325.12" width="0.1524" layer="91"/>
+<wire x1="375.92" y1="325.12" x2="375.92" y2="327.66" width="0.1524" layer="91"/>
+<junction x="375.92" y="325.12"/>
+<wire x1="375.92" y1="325.12" x2="383.54" y2="325.12" width="0.1524" layer="91"/>
+<wire x1="383.54" y1="325.12" x2="383.54" y2="302.26" width="0.1524" layer="91"/>
+<wire x1="383.54" y1="302.26" x2="391.16" y2="302.26" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="VDD@B1"/>
+<label x="375.92" y="327.66" size="1.778" layer="95" rot="R90" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VDD@A22"/>
+<wire x1="434.34" y1="302.26" x2="434.34" y2="320.04" width="0.1524" layer="91"/>
+<wire x1="434.34" y1="320.04" x2="439.42" y2="320.04" width="0.1524" layer="91"/>
+<label x="441.96" y="320.04" size="1.778" layer="95" xref="yes"/>
+<wire x1="439.42" y1="320.04" x2="441.96" y2="320.04" width="0.1524" layer="91"/>
+<junction x="439.42" y="320.04"/>
+<wire x1="439.42" y1="320.04" x2="439.42" y2="317.5" width="0.1524" layer="91"/>
+<pinref part="C12" gate="C$1" pin="1"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VDD@AD23"/>
+<wire x1="452.12" y1="241.3" x2="467.36" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="467.36" y1="241.3" x2="474.98" y2="241.3" width="0.1524" layer="91"/>
+<label x="474.98" y="241.3" size="1.778" layer="95" xref="yes"/>
+<pinref part="C8" gate="C$1" pin="1"/>
+<junction x="467.36" y="241.3"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="VDD@AD14"/>
+<wire x1="414.02" y1="223.52" x2="414.02" y2="193.04" width="0.1524" layer="91"/>
+<wire x1="414.02" y1="193.04" x2="403.86" y2="193.04" width="0.1524" layer="91"/>
+<wire x1="403.86" y1="193.04" x2="396.24" y2="193.04" width="0.1524" layer="91"/>
+<junction x="403.86" y="193.04"/>
+<wire x1="403.86" y1="193.04" x2="403.86" y2="190.5" width="0.1524" layer="91"/>
+<label x="396.24" y="193.04" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="C7" gate="C$1" pin="1"/>
+</segment>
+<segment>
+<wire x1="972.82" y1="266.7" x2="960.12" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="960.12" y1="266.7" x2="924.56" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="924.56" y1="266.7" x2="883.92" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="883.92" y1="266.7" x2="883.92" y2="259.08" width="0.1524" layer="91"/>
+<junction x="924.56" y="266.7"/>
+<wire x1="924.56" y1="266.7" x2="924.56" y2="259.08" width="0.1524" layer="91"/>
+<junction x="960.12" y="266.7"/>
+<wire x1="960.12" y1="266.7" x2="960.12" y2="259.08" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
+<label x="972.82" y="266.7" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="VDD"/>
+<wire x1="944.88" y1="317.5" x2="957.58" y2="317.5" width="0.1524" layer="91"/>
+<label x="960.12" y="317.5" size="1.778" layer="95" xref="yes"/>
+<wire x1="957.58" y1="317.5" x2="960.12" y2="317.5" width="0.1524" layer="91"/>
+<junction x="957.58" y="317.5"/>
+<wire x1="957.58" y1="317.5" x2="957.58" y2="307.34" width="0.1524" layer="91"/>
+<pinref part="C34" gate="G$1" pin="1"/>
+</segment>
+<segment>
+<pinref part="Q1" gate="G$1" pin="S"/>
+<wire x1="825.5" y1="281.94" x2="825.5" y2="276.86" width="0.1524" layer="91"/>
+<label x="825.5" y="276.86" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 </nets>
