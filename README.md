@@ -79,6 +79,7 @@ Conectorul USB Type-C (KH-TYPE-C-16P) îndeplinește două roluri: alimentare pe
 Display-ul e-paper de 1.54 inch este conectat prin FPC (conector Molex 503480-2400, 24-pin). Principalele avantaje ale tehnologiei e-paper pentru un smartwatch sunt consumul aproape zero în idle (imaginea persistă fără alimentare) și lizibilitatea excelentă în lumina solară.
 
 Comunicarea cu MCU-ul se face prin **SPI** cu următoarele semnale:
+
 - **MOSI** — transmite date și comenzi către display
 - **SCK** — semnal de clock pentru sincronizarea transferului
 - **DC** — diferențiază între comenzi și date
@@ -90,6 +91,7 @@ Alimentarea display-ului este controlată de un PFET Si2301CDS, permițând opri
 ### 3.5 Accelerometru — BMA421
 
 Senzorul BMA421 oferă măsurători de accelerație pe 3 axe și este utilizat pentru:
+
 - detecția mișcării și a gesturilor (ridicare încheietură)
 - funcționalitate de pedometru
 - activarea ecranului din sleep
@@ -210,6 +212,7 @@ P0.00 și P0.01 sunt singurii pini pe nRF52840 dedicați oscilatorului low-frequ
 ### 5.7 Criterii de Alocare
 
 Distribuția pinilor a fost realizată ținând cont de:
+
 - utilizarea interfețelor hardware native ale MCU-ului (SPI, I2C, USB, LFXO)
 - gruparea semnalelor conexe pe pini adiacenți pentru simplificarea traseelor PCB
 - disponibilitatea funcțiilor de întrerupere hardware pe pinii aleși
@@ -253,11 +256,3 @@ Cu o baterie de 250 mAh, autonomia teoretică maximă în idle este:
 - **Proiectare PCB:** S-a optat pentru o configurație de 4 straturi (Signal-GND-VCC-Signal) pentru a asigura ecranarea electromagnetică și integritatea semnalului RF.
 - **Miniaturizare:** Toate componentele pasive de decuplare din jurul nRF52840 sunt de mărime 0201, reducând dimensiunea finală a plăcii.
 - **Design Mecanic:** Carcasa a fost modelată în Fusion 360 pentru a integra PCB-ul și bateria de 250mAh într-un profil compact, utilizând toleranțe strânse pentru montarea prin presare.
-
-## 8. Galerie Randări și Producție
-
-*(Notă: Adăugați aici imaginile proprii generate din Fusion 360)*
-
-- **PCB 3D View:** Placa electronică cu toate componentele populate.
-- **Exploded View:** Vedere desfășurată a componentelor în carcasă.
-- **Final Assembly:** Randarea smartwatch-ului asamblat complet.
